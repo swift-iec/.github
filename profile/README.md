@@ -6,6 +6,8 @@ Swift implementations of IEC (International Electrotechnical Commission) specifi
 
 One package per specification, named `swift-iec-<number>`. Each package implements its source document as literally as possible — parsing, validation, and formatting enforced by Swift's type system — and defines its own namespace (`IEC_61966`). Where several specifications govern one subject, the unifying `swift-*-standard` package lives in [swift-standards](https://github.com/swift-standards).
 
+> Swift IEC is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by the International Electrotechnical Commission.
+
 ## Coverage
 
 | Package | Specification |
