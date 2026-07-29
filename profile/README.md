@@ -8,14 +8,9 @@ One package per specification, named `swift-iec-<number>`. Each package implemen
 
 > Swift IEC is an independent open-source project. It is not affiliated with, endorsed by, or sponsored by the International Electrotechnical Commission.
 
-## Coverage
+## Find packages
 
-| Package | Specification |
-|---|---|
-| [swift-iec-61966](https://github.com/swift-iec/swift-iec-61966) | sRGB color space |
-| [swift-iec-80000-13](https://github.com/swift-iec/swift-iec-80000-13) | Quantities and units — Part 13: Information science and technology |
-
-Every repository description carries the specification's full title; the [repositories tab](https://github.com/orgs/swift-iec/repositories) lists them all.
+Browse the organization's [Repositories tab](https://github.com/orgs/swift-iec/repositories) for the current package set. Use GitHub's native name, language, and topic filters to find a specification; each repository description carries its full title.
 
 ## Status
 
